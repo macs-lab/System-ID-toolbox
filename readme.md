@@ -1,0 +1,1 @@
+A set of MATLAB functions for recursive least squares parameter adaptation algorithms. The set is branched from Prof. Ioan Landau's toolbox in his book "Adaptive control by Landau, Lozano, M'Saad and Karimi, Springer", with modifications and updates by Xu Chen.
